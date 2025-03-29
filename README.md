@@ -5,6 +5,7 @@ lumao 教程和工具箱
 
 ## 钱包生成
 [solana钱包生成(开源)](https://github.com/lumaoren2024/lumao_Tutorial/blob/main/%E9%92%B1%E5%8C%85%E7%94%9F%E6%88%90/generate_solana_wallet.py)
+
 教程：``pip3 install solana solders``
 
 
